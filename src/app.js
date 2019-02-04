@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import Movies from "./components/movies";
-import CartTotal from "./components/cartTotal";
 import "bootstrap/dist/css/bootstrap.css";
 
 class App extends Component {
