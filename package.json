@@ -25,7 +25,9 @@
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
+    "lodash": "^4.17.10",
     "parcel-bundler": "^1.11.0",
+    "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-router": "^4.3.1"
